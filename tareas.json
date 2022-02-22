@@ -1,0 +1,7 @@
+[{"titulo":"comer","estado":"completo"},
+{"titulo":"correr","estado":"pendiente"},
+{"titulo":"bañarse","estado":"completo"},
+{"titulo":"pasear","estado":"pendiente"},
+{"titulo":"limpiar","estado":"completo"},
+{"titulo":"pasear perro","estado":"pendiente"}
+]
